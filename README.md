@@ -4,8 +4,8 @@
 
 ## Ссылки
 
-- Сайт: [добавить после деплоя на GitHub Pages]
-- Figma-проект (кофейня): https://www.figma.com/design/4fbzS92ydJtRKoyigZMxoe/MiroCafe-site-design
+- Сайт: []
+- Figma-проект : https://www.figma.com/design/4fbzS92ydJtRKoyigZMxoe/MiroCafe-site-design
 - Tilda портфолио: https://dtannatcomp.tilda.ws/dana
 
 ## Содержание сайта
@@ -18,7 +18,7 @@
 | 04 | Ментор | Равиль и его роль |
 | 05 | Точка А → Б | Прогресс обучения |
 | 06 | Хобби | Танцы и увлечения |
-| 07 | Работы | 3 проекта портфолио |
+| 07 | Работы | 4 проекта портфолио |
 | 08 | GitHub | Ссылка на репозиторий |
 
 ## Технологии
