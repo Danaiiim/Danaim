@@ -4,12 +4,11 @@
 
 ## Ссылки
 
-- Сайт: []
+- Сайт: [https://danaiiim.github.io/Danaim/]
 - Figma-проект : https://www.figma.com/design/4fbzS92ydJtRKoyigZMxoe/MiroCafe-site-design
 - Tilda портфолио: https://dtannatcomp.tilda.ws/dana
 
 ## Содержание сайта
-
 | # | Секция | Описание |
 |---|--------|----------|
 | 01 | О себе | Имя, факты, стек |
